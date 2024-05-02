@@ -1,4 +1,5 @@
-# Amazon Product Scraper
+<h1 align="center">Amazon Product Scraper</h1>
+
 
 This is a project for scraping data from Amazon. It allows you to search for products on Amazon and view the results in a user-friendly interface.
 
@@ -80,4 +81,5 @@ For this project's design, the focus was on creating a user-friendly and present
 - JSDOM
 - HTML/CSS/JavaScript
 
-Developed with 💛 by [elmojr](https://elmojr.dev)
+<p align="center">Developed with 💛 by <a target="_blank" href="http://elmojr.dev">elmojr</a>.</p>
+
