@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Amazon Product Scraper</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script
+      src="https://kit.fontawesome.com/067f1ddc73.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <header class="section-padding">
+      <h1>Amazon Product Scraper</h1>
+
+      <form id="searchForm">
+        <input
+          type="text"
+          id="keyword"
+          name="keyword"
+          placeholder="Enter keyword"
+        />
+        <button type="submit" id="submitBtn">
+          <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+        </button>
+      </form>
+    </header>
+
+    <main>
+      <div class="product-title">
+        <h2>Products:</h2>
+        <i class="fa-solid fa-grip fa-2xl"></i>
+      </div>
+      <div class="product-container">
+        <div id="loader"></div>
+        <ul id="results"></ul>
+      </div>
+    </main>
+    <footer>
+      Developed with 💜 by
+      <a target="_blank" href="http://elmojr.dev">elmojr</a>.
+    </footer>
+  </body>
+  <script src="scripts.js"></script>
+</html>
