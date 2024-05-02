@@ -22,9 +22,7 @@ As a result, I was able to resolve the scraping issues and make the backend more
 
 For this project's design, the focus was on creating a user-friendly and presentable interface. The design follows modern trends, using glassmorphism concepts to give a sleek and transparent look to the page elements.
 
-![Captura de tela](./assets/Captura%20de%20tela.jpeg "Texto Alternativo")
-![Desktop in figma](./assets/Desktop-figma.png "Desktop in figma")
-![Styles gide figma](./assets/Components-figma.png "Styles gide figma")
+![Styles gide figma](./assets/Desktop-figma.png "Styles gide figma")
 
 ## Setup
 
