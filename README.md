@@ -30,7 +30,7 @@ For this project's design, the focus was on creating a user-friendly and present
 ### **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/amazon-scraper.git
+   git clone https://github.com/oElmoJr/Amazon-Scraper.git
    ```
 
 ### Running the Application
