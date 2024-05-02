@@ -24,7 +24,7 @@ For this project's design, the focus was on creating a user-friendly and present
 
 ![Captura de tela](./assets/Captura%20de%20tela.jpeg "Texto Alternativo")
 ![Desktop in figma](./assets/Desktop-figma.png "Desktop in figma")
-![Styles gide figma](./assets/Desktop-figma.png "Styles gide figma")
+![Styles gide figma](./assets/Components-figma.png "Styles gide figma")
 
 ## Setup
 
