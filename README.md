@@ -28,6 +28,7 @@ For this project's design, the focus was on creating a user-friendly and present
 <img src="https://i.ibb.co/C1M8gv8/image.png">
 <img width="36%" align="right" src="https://i.ibb.co/p1dMxJr/Components.png">
 <img width="60%" src="https://i.ibb.co/q9TMMjp/Captura-de-tela-1.png">
+<img width="100%" src="https://i.ibb.co/zbL4VDX/image.png">
 
 
 ## Setup
