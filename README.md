@@ -23,7 +23,11 @@ As a result, I was able to resolve the scraping issues and make the backend more
 
 For this project's design, the focus was on creating a user-friendly and presentable interface. The design follows modern trends, using glassmorphism concepts to give a sleek and transparent look to the page elements.
 
+<img src="https://i.ibb.co/wQ95rpD/Group-4.png">
 <img src="https://i.ibb.co/C1M8gv8/image.png">
+<img width="36%" align="right" src="https://i.ibb.co/p1dMxJr/Components.png">
+<img width="60%" src="https://i.ibb.co/q9TMMjp/Captura-de-tela-1.png">
+
 
 ## Setup
 
