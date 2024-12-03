@@ -1,5 +1,6 @@
-<h1 align="center">Amazon Product Scraper</h1>
+<img src="https://i.ibb.co/1bq58h8/Frame-1-1.png">
 
+<!-- <h1 align="center">Amazon Product Scraper</h1> -->
 
 This is a project for scraping data from Amazon. It allows you to search for products on Amazon and view the results in a user-friendly interface.
 
